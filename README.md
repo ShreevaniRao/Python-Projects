@@ -1,4 +1,5 @@
 # Python-Projects
+## Self Explanatory folder structure to showcase the EDA process with its Viz using Python libraries
 * ##### Using Anaconda, worked on Jupyter notebook to create multiple notebooks to demonstrate Python libraries that I used to collect, clean and explore the data.
 * ##### Coded multiple Jupyter notebooks to collect data using BeautifulSoup library to Web Scrape, Make API calls with Requests library, Pandas to present it in a readable tabular format.
 * ##### Used Pandas & Numpy libraries to clean the dataset uploaded using a CSV file in a well documented Jupyter Notebooks with output shown in a formatted data.
