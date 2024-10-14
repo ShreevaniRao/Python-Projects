@@ -1,9 +1,57 @@
 # Python-Projects
-## Self Explanatory folder structure to showcase the EDA process with its Viz using Python libraries
-* ##### Using Anaconda, worked on Jupyter notebook to create multiple notebooks to demonstrate Python libraries that I used to collect, clean and explore the data.
-* ##### Coded multiple Jupyter notebooks to collect data using BeautifulSoup library to Web Scrape, Make API calls with Requests library, Pandas to present it in a readable tabular format.
-* ##### Used Pandas & Numpy libraries to clean the dataset uploaded using a CSV file in a well documented Jupyter Notebooks with output shown in a formatted data.
-* ##### Downloaded Kaggle datasets to perform EDA with multiple documented Jupyter Notebooks to showcase the statistical insights of Black Friday Sales & Hotel Booking Demand data with Pandas & Numpy libraries alongwith accompanying visualizations using Bar charts, Histograms, Box Plots, HeatMaps to demonstrate the data distribution using Seaborn, Matplotlib and Plotly libraries.
 
-* ##### Link for the EDA - Hotel Booking Demand (Ploty figures won't display in local notebook) 
-https://nbviewer.org/github/ShreevaniRao/Python-Projects/blob/main/EDA/Hotel%20Booking%20Demand%20-%20EDA.ipynb
+Self-explanatory folder structure showcasing the EDA process with visualizations using Python libraries.
+
+## Project Structure
+
+- **Collect**: Jupyter notebooks demonstrating data collection techniques.
+  - Web scraping using BeautifulSoup
+  - API calls with Requests library
+  - Data presentation using Pandas
+
+- **Clean**: Jupyter notebooks showing data cleaning processes.
+  - Using Pandas & Numpy to clean datasets from CSV files
+  - Well-documented with formatted output
+
+- **EDA**: Exploratory Data Analysis notebooks.
+  - Statistical insights on Black Friday Sales & Hotel Booking Demand data
+  - Visualizations: Bar charts, Histograms, Box Plots, HeatMaps
+  - Libraries used: Pandas, Numpy, Seaborn, Matplotlib, Plotly
+
+- **ETL**: Extract, Transform, Load projects.
+  - **NEW: Personal Finance Tracker**
+    - CSV data management for financial transactions
+    - User input handling with validation
+    - Date range filtering and financial summary generation
+    - Data visualization of income and expenses over time
+    - Demonstrates ETL processes in a practical application
+
+## Tools and Libraries
+
+- Anaconda
+- Jupyter Notebook
+- Python libraries: BeautifulSoup, Requests, Pandas, Numpy, Seaborn, Matplotlib, Plotly
+
+## Notable Projects
+
+### EDA - Hotel Booking Demand
+[View Notebook](https://nbviewer.org/github/ShreevaniRao/Python-Projects/blob/main/EDA/Hotel%20Booking%20Demand%20-%20EDA.ipynb)  
+(Plotly figures may not display in local notebook)
+
+### NEW: Personal Finance Tracker (ETL)
+- Efficient CSV data handling
+- User-friendly command-line interface
+- Financial data analysis and visualization
+- Demonstrates OOP, data manipulation, and ETL processes
+
+## Skills Demonstrated
+
+- Data collection and web scraping
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Data visualization
+- ETL processes
+- Object-Oriented Programming
+- Command-line interface design
+- File I/O operations
+- Error handling and input validation
