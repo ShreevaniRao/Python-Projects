@@ -107,9 +107,7 @@ class CSV:
         print(f"Net Savings: ${(total_income - total_expense):.2f}")
         return filtered_df
 
-    # Appending the user input personal finance data in the csv file
-
-
+   
 def add_user_entered_row_detail():
     """
     Get user input for a new transaction row and add it to the CSV file.
