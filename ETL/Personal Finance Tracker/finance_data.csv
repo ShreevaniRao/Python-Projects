@@ -1,0 +1,58 @@
+date,amount,category,description
+20-07-2024,125.65,Income,Salary
+09-10-2024,245.12,Income,Testing first row
+10-05-2024,567.1,Income,Running thru main method
+5-01-2023,150.00,Expense,Weekly grocery shopping
+20-02-2023,75.50,Expense,Electricity bill for January
+05-03-2023,200.00,Expense,Monthly rent payment
+10-04-2023,50.75,Expense,Movie tickets
+22-05-2023,120.00,Expense,Monthly public transport pass
+30-06-2023,300.00,Income,Savings transfer
+15-07-2023,60.00,Expense,Dinner at restaurant
+25-08-2023,90.00,Expense,Bulk grocery shopping
+14-09-2023,45.00,Expense,Fitness class subscription
+05-10-2023,500.00,Expense,Monthly rent payment
+11-11-2023,30.00,Expense,Concert tickets
+19-12-2023,100.00,Expense,Xmas gifts for family
+10-01-2024,80.00,Expense,Electricity bill for December
+15-02-2024,250.00,Expense,Monthly rent payment
+20-03-2024,70.50,Expense,Lunch with friends
+25-04-2024,300.00,Income,Savings deposit
+30-05-2024,45.00,Expense,Birthday gifts for friend
+10-06-2024,60.00,Expense,Taxis and rideshares
+15-07-2024,200.00,Income,Bi-weekly salary
+22-08-2024,100.00,Expense,Dinner at new restaurant
+18-09-2024,150.00,Expense,Monthly rent payment
+05-10-2024,90.00,Expense,Coffee shop visits
+01-07-2024,1000,Income,Salary
+02-07-2024,50,Expense,Groceries
+03-07-2024,150,Expense,Utilities
+04-07-2024,200,Income,Freelance Work
+05-07-2024,75,Expense,Restaurant
+06-07-2024,100,Expense,Transport
+07-07-2024,500,Income,Bonus
+08-07-2024,30,Expense,Snacks
+09-07-2024,250,Income,Stock Dividends
+10-07-2024,90,Expense,Entertainment
+11-07-2024,60,Expense,Coffee
+12-07-2024,120,Expense,Gas
+13-07-2024,80,Expense,Books
+14-07-2024,150,Expense,Clothing
+15-07-2024,1100,Income,Salary
+16-07-2024,40,Expense,Stationery
+17-07-2024,180,Expense,Utilities
+18-07-2024,250,Income,Freelance Work
+19-07-2024,70,Expense,Restaurant
+20-07-2024,130,Expense,Transport
+21-07-2024,600,Income,Bonus
+22-07-2024,35,Expense,Snacks
+23-07-2024,300,Income,Stock Dividends
+24-07-2024,100,Expense,Entertainment
+25-07-2024,55,Expense,Coffee
+26-07-2024,140,Expense,Gas
+27-07-2024,90,Expense,Books
+28-07-2024,170,Expense,Clothing
+29-07-2024,1200,Income,Salary
+30-07-2024,45,Expense,Stationery
+31-07-2024,190,Expense,Utilities
+20-07-2023,124.0,Expense,Groceries
