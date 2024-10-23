@@ -30,9 +30,8 @@
 
 ## Skills Demonstrated
 
-- Data collection and web scraping
-- Data cleaning and preprocessing
-- Exploratory data analysis
+- Data collection
+- Coding principals
 - Data visualization
 - ETL processes
 - Object-Oriented Programming
