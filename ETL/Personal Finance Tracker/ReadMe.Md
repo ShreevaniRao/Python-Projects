@@ -31,7 +31,7 @@
 ## Skills Demonstrated
 
 - Data collection
-- Coding principals
+- Coding principles
 - Data visualization
 - ETL processes
 - Object-Oriented Programming
