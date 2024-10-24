@@ -18,7 +18,7 @@ Self-explanatory folder structure showcasing the EDA process with visualizations
   - Visualizations: Bar charts, Histograms, Box Plots, HeatMaps
   - Libraries used: Pandas, Numpy, Seaborn, Matplotlib, Plotly
 
-- **ETL**: Extract, Transform, Load projects.
+- **[ETL](https://github.com/ShreevaniRao/Python-Projects/tree/main/ETL)**: Extract, Transform, Load projects.
   - **NEW: Personal Finance Tracker**
     - CSV data management for financial transactions
     - User input handling with validation
