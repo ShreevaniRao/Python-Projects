@@ -19,7 +19,7 @@ Self-explanatory folder structure showcasing the EDA process with visualizations
   - Libraries used: Pandas, Numpy, Seaborn, Matplotlib, Plotly
 
 - **[ETL](https://github.com/ShreevaniRao/Python-Projects/tree/main/ETL)**: Extract, Transform, Load projects.
-  - ** **NEW !!\*\*: Personal Finance Tracker**
+  - ** **NEW !!\*\*: [Personal Finance Tracker](https://github.com/ShreevaniRao/Python-Projects/blob/main/ETL/Personal%20Finance%20Tracker/ReadMe.Md)**
     - CSV data management for financial transactions
     - User input handling with validation
     - Date range filtering and financial summary generation
