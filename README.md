@@ -13,7 +13,7 @@ Self-explanatory folder structure showcasing the EDA process with visualizations
   - Using Pandas & Numpy to clean datasets from CSV files
   - Well-documented with formatted output
 
-- **EDA**: Exploratory Data Analysis notebooks.
+- **[EDA](https://github.com/ShreevaniRao/Python-Projects/tree/main/EDA)**: Exploratory Data Analysis notebooks.
   - Statistical insights on Black Friday Sales & Hotel Booking Demand data
   - Visualizations: Bar charts, Histograms, Box Plots, HeatMaps
   - Libraries used: Pandas, Numpy, Seaborn, Matplotlib, Plotly
