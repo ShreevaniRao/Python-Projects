@@ -1,4 +1,7 @@
 ### NEW: Personal Finance Tracker (ETL)
+
+This project is a comprehensive financial tracking application built in Python, designed to handle personal finance data. It leverages CSV files for data storage and provides functionalities for transaction logging, summarization, and visualization.
+
 - **Key Features**:  
       - **CSV Data Management**: Efficient handling of financial data using CSV files  
       - **User Input Handling**: Robust input validation for date, amount, category, and description  
