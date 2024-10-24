@@ -4,12 +4,12 @@ Self-explanatory folder structure showcasing the EDA process with visualizations
 
 ## Project Structure
 
-- **Collect**: Jupyter notebooks demonstrating data collection techniques.
+- **Collect Data**: Jupyter notebooks demonstrating data collection techniques.
   - Web scraping using BeautifulSoup
   - API calls with Requests library
   - Data presentation using Pandas
 
-- **Clean**: Jupyter notebooks showing data cleaning processes.
+- **Clean Data**: Jupyter notebooks showing data cleaning processes.
   - Using Pandas & Numpy to clean datasets from CSV files
   - Well-documented with formatted output
 
